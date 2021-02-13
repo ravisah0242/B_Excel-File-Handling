@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="exel_File.Read_Data"/>
+      <class name="exel_File.ReadDataLooping"/>
       <class name="exel_File.Get_Last_Row_Cell_Num"/>
     </classes>
   </test> <!-- Test -->
